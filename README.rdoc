@@ -1,0 +1,12 @@
+= Railsalitics
+
+Railsalitics.com is new monitoring service your Rails applications.
+
+There is no production version yet. However, if you feel adveterous and are 
+interested in testing, feel free to contact me.
+
+= Example
+
+No examples yet. 
+
+Copyright (c) 2009 Marek Jelen, released under the MIT license

@@ -1,0 +1,12 @@
+active: yes
+interval: 60
+api_key: XYZ
+host: api.railsalitics.com
+port: 80
+ssl: no
+log_level: INFO # DEBUG, INFO, WARN, ERROR, FATAL
+scramble_fields:
+  - password
+remove_fields:
+  - session_id
+  - _csrf_token
